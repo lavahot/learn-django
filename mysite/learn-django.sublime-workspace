@@ -1,0 +1,1218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dev",
+				"devnum"
+			],
+			[
+				"mysql",
+				"mysqld"
+			],
+			[
+				"st",
+				"stop"
+			],
+			[
+				"Logg",
+				"LoggerConfTest"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"E",
+				"EXPECT_EQ"
+			],
+			[
+				"logger",
+				"logger_config"
+			],
+			[
+				"logg",
+				"logger_conf_node"
+			],
+			[
+				"L",
+				"LoggerConfTestNorm"
+			],
+			[
+				"LO",
+				"LoggerConfTest"
+			],
+			[
+				"file",
+				"file_in"
+			],
+			[
+				"c",
+				"conf"
+			],
+			[
+				"u",
+				"upgradecomplete"
+			],
+			[
+				"MD",
+				"MD5"
+			],
+			[
+				"md5",
+				"md5sum"
+			],
+			[
+				"ei",
+				"ei_interface"
+			],
+			[
+				"ini",
+				"initps"
+			],
+			[
+				"stat",
+				"status	status"
+			],
+			[
+				"Buil",
+				"BUILD_DIR"
+			],
+			[
+				"B",
+				"BUILD_NUMBER"
+			],
+			[
+				"dpkg",
+				"dpkg-reconfigure"
+			],
+			[
+				"Prep",
+				"Prepare"
+			],
+			[
+				"Odroid",
+				"odroidu3"
+			],
+			[
+				"Dev",
+				"DEV_DIR"
+			],
+			[
+				"www",
+				"www-data"
+			],
+			[
+				"USR",
+				"USRVERSIONS"
+			],
+			[
+				"log",
+				"log_msg"
+			],
+			[
+				"Down",
+				"Download"
+			],
+			[
+				"real_time",
+				"real_time_calibration"
+			],
+			[
+				"loaiq",
+				"loadiq"
+			],
+			[
+				"mmcblk",
+				"mmcblk0p3"
+			],
+			[
+				"vpn",
+				"vpnSetUp"
+			],
+			[
+				"sy",
+				"symmetric-ds-3"
+			],
+			[
+				"w",
+				"www"
+			],
+			[
+				"root",
+				"rootmnt"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"odroid",
+				"odroidu2"
+			],
+			[
+				"fold",
+				"foldlink"
+			],
+			[
+				"I",
+				"InstallWB"
+			],
+			[
+				"symmetric",
+				"symmetric-ds"
+			],
+			[
+				"set",
+				"setCirNo"
+			],
+			[
+				"num",
+				"num_current_port"
+			],
+			[
+				"temp",
+				"tempfile"
+			],
+			[
+				"reboot",
+				"reboot"
+			],
+			[
+				"reb",
+				"rebootlog"
+			],
+			[
+				"bui",
+				"BUILD_DIR"
+			],
+			[
+				"aP",
+				"arP"
+			],
+			[
+				"C",
+				"chrooter"
+			],
+			[
+				"CHROOT",
+				"CHROOTER"
+			],
+			[
+				"D",
+				"DEV_DIR"
+			],
+			[
+				"Bui",
+				"BUILD_DIR"
+			],
+			[
+				"lo",
+				"logger_data_viewer"
+			],
+			[
+				"UA-",
+				"UA-dev1"
+			],
+			[
+				"Do",
+				"Documents"
+			],
+			[
+				"libmysql",
+				"libmysqlcppconn5"
+			],
+			[
+				"e",
+				"etc"
+			],
+			[
+				"cpu",
+				"cpufrequtil"
+			],
+			[
+				"real",
+				"real_time_data"
+			],
+			[
+				"cgi",
+				"cgi-bin"
+			],
+			[
+				"init",
+				"init_flags"
+			],
+			[
+				"setup",
+				"setup_supplemental_EI"
+			],
+			[
+				"se",
+				"setup_supplemental_EI"
+			],
+			[
+				"start_",
+				"start_mode_processes"
+			],
+			[
+				"loadiq",
+				"loadiq"
+			],
+			[
+				"Update",
+				"UpdateUSRVersions"
+			],
+			[
+				"img",
+				"IMG_PATH"
+			],
+			[
+				"Up",
+				"UpdateUPRVersions"
+			],
+			[
+				"O",
+				"OdroidU3"
+			],
+			[
+				"star",
+				"start_mode_processes"
+			],
+			[
+				"te",
+				"tempUSRV"
+			],
+			[
+				"LOCAL",
+				"LOCALUSRVER"
+			],
+			[
+				"UPR",
+				"UPR_MNT"
+			],
+			[
+				"T",
+				"TEMP_DIR"
+			],
+			[
+				"GIT",
+				"GIT_DIR"
+			],
+			[
+				"ade7880_",
+				"ade7880_calibration"
+			],
+			[
+				"ade",
+				"ade7880_driver"
+			],
+			[
+				"ad",
+				"ade7880_driver"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"un",
+				"unmounted"
+			],
+			[
+				"log_",
+				"log_success_msg"
+			],
+			[
+				"rem",
+				"remUPRversions"
+			],
+			[
+				"R",
+				"REMUSRVER"
+			],
+			[
+				"la",
+				"later"
+			],
+			[
+				"REM",
+				"REM_USR_VERSIONS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manage.py",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"gcb",
+				"Git: Change Branch"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gd",
+				"Git: Diff Current File"
+			],
+			[
+				"grebas",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"gdc",
+				"Git: Diff Current File"
+			],
+			[
+				"wrod",
+				"Word Wrap: Toggle"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"gx",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"GC",
+				"Git: Commit"
+			],
+			[
+				"GP",
+				"Git: Push"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gn",
+				"Git: New Branch"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gcbn",
+				"Git: Change Branch"
+			],
+			[
+				"v",
+				"View: Toggle Minimap"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"dcp",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"or",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"togg",
+				"View: Toggle Minimap"
+			],
+			[
+				"sett",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"G",
+				"Git: Commit"
+			],
+			[
+				"GA",
+				"Git: Add..."
+			],
+			[
+				"gnb",
+				"Git: New Branch"
+			],
+			[
+				"cpr",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"origamidpr",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"create right",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"ori",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gac",
+				"Git: Amend Commit"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gam",
+				"Git: Amend Commit"
+			],
+			[
+				"cbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"od",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"oc",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Jenkins Dashboard: ",
+				"Jenkins Dashboard: Show Jobs"
+			],
+			[
+				"gr",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"cb",
+				"Git: Change Branch"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"gtag",
+				"Git: New Tag"
+			],
+			[
+				"gsa",
+				"Git: Status"
+			],
+			[
+				"gss",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gche",
+				"Git: Change Branch"
+			],
+			[
+				"gh",
+				"Git: Commit history"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gitd",
+				"Git: Diff All Files"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gch",
+				"Git: Commit history"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git d",
+				"Git: Diff All Files"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git idff",
+				"Git: Diff All Files"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"jenkin",
+				"Jenkins Dashboard: Show Jobs"
+			],
+			[
+				"jenki",
+				"Jenkins Dashboard: Build Job"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"Jenk",
+				"Jenkins Dashboard: Show Jobs"
+			],
+			[
+				"Pro",
+				"Package Control: Install Package"
+			],
+			[
+				"GIt",
+				"Git: Pull"
+			],
+			[
+				"Git",
+				"Git: Gui"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/taylor/Developer/learn-django",
+		"/home/taylor/Developer/learn-django/mysite",
+		"/home/taylor/Developer/learn-django/mysite/mysite"
+	],
+	"file_history":
+	[
+		"/home/taylor/Documents/mmc crash error log example 205.txt",
+		"/home/taylor/Developer/DroneControl/hellomap.html",
+		"/home/taylor/Developer/DroneControl/.gitignore",
+		"/home/taylor/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/taylor/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/taylor/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/stable-grip.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/loggerEI_install.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/config.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/etc/init.d/upgrade",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bin/loadiq/stopwrite.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/setup_supplemental_EI/init/ei_interface.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/tests/bootmode/bm4.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/tests/bootmode/bm0.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/tests/bootmode/bm2.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/tests/ei_interface/normal.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/tests/database/normal.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/.gitignore",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/setup.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/.my.cnf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/setup_supplemental_EI/init/symmetric-ds.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/setup_supplemental_EI/init/logger.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/check_networking",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/etc/init.d/start_networking",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/etc/cron.daily/updatecheck",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/web_backend_install.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/manup.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bm0.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bm2.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bm4.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/suite.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/package.json",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/.directory",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/teardown.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/skipped.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/single_line.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/setup.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/passing_failing_and_skipping.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/passing_and_skipping.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/passing_and_failing.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/passing.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/output.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/load.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/invalid_tap.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/intact.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/failing_teardown.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/failing_setup.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/failing_helper.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/failing_and_passing.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/failing.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/environment.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/empty.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/fixtures/bats/dos_line.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/test_helper.bash",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/test/bats.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/bats.7.ronn",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/bats.7",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/bats.1.ronn",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/bats.1",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/README.md",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/man/Makefile",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/libexec/bats-preprocess",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/libexec/bats-format-tap-stream",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/libexec/bats-exec-test",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/libexec/bats-exec-suite",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/libexec/bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/bin/bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/install.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/README.md",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/LICENSE",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/.travis.yml",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bats/.gitattributes",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/doxy.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/build.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/LoggerEI-Dev.sublime-project",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/CMakeLists.txt",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/Configuration.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/LoggerConf.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/LoggerConfTestHarnesses/optionsnormal.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/test.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/CMakeLists.txt",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bin/config/options.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/common/option_parser.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/gtest-1.7.0/test/gtest-options_test.cc",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/LoggerConfTestNorm.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/LoggerConfTest.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bin/config/ei_interface.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/Configuration.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/gtest-1.7.0/xcode/Scripts/runtests.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/LoggerConf.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/common/CircuitData.h",
+		"/home/taylor/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/clustering/clustering_attributes.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/clustering/Clustering.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/test/ZBuffer_test.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/Odroid-init-backup/initrd/tmp/init",
+		"/etc/init.d/skeleton",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bin/stopwrite.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/rebootlog.conf",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/system.bats",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bm02.bash",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/PostProcessing.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/PostProcessing.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/SparseMatrix.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/SteadyStatesToLoads.cpp",
+		"/home/taylor/Downloads/networkMonitor_log",
+		"/home/taylor/Downloads/networkMonitor_csv",
+		"/home/taylor/Downloads/networkMonitor",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/bin/load_iq_db.sql",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/ftdi_wrapper.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/setup_supplemental_EI/load_iq_db_ei.sql",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/webInterface/update_addfields.sh",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/load_iq_db_language_tables.sql",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/webInterface/customerGrouping.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/webInterface/webConnection.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/z_thresholds.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/z_thresholds.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/DPR_Conf.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/DPR_Conf.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/DPR_Defs.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/DPR_Config.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/WinTypes.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/CircuitData.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/PowerRange.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/PowerRangeMain.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/CircularBuffer.h",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/ei_interface.cpp",
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/defs.h"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/taylor/Documents/UA-Dev/UA-dev1/",
+			"/home/taylor/Documents/UA-Dev/UA-dev1/init.d",
+			"/media/taylor/3B85BCAD2FA0810F/Odroid-full-backup/",
+			"/media/taylor/3B85BCAD2FA0810F/Odroid-full-backup/etc",
+			"/home/taylor/Documents/UA-Dev/UA-dev1/UA-dev1.6/odroid/setup/srv/www",
+			"/home/taylor/Documents/Odroid-init-backup/initrd/tmp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"my.",
+			"symmetric",
+			"mysql",
+			"libmysq",
+			"init.d",
+			"wpa_supp",
+			"etc/",
+			"cron",
+			"update",
+			"cron",
+			"cp ",
+			"cp",
+			"etc",
+			"supp",
+			"symm",
+			"bats_perform_tests",
+			"my.",
+			"OPTIONS",
+			"DB",
+			".as<std::string>()",
+			">",
+			">, ",
+			"bool>,",
+			">",
+			">,",
+			">",
+			"init.d",
+			"ASSERT_EQ",
+			"ASSERT",
+			"logger_config",
+			"UML",
+			"diagrams",
+			"aufs",
+			"etc",
+			"data",
+			"etc",
+			"init.d",
+			"mysql",
+			"load",
+			"ssLoadsPowers",
+			"regressionAlphaB",
+			"regressionAlpha",
+			"regression",
+			"ssLoads",
+			"ssLoadsPowers",
+			"postProcessing(",
+			"ssLoadsPowers",
+			"WPrevWpct",
+			"SPARSE",
+			"cnt",
+			"RESET_NET",
+			"PPrevPpct",
+			"PPrev",
+			"die",
+			"networkMonitor_die",
+			"geto",
+			"load_iq_db",
+			"// ",
+			"//",
+			"mount",
+			"source",
+			"setCi",
+			"PRIVATE",
+			"mySQLD",
+			"mysql",
+			"start",
+			"run",
+			"modules",
+			"sudoers",
+			"ifup",
+			"$devnum",
+			"mnt/data",
+			"wpa",
+			".\n",
+			"reset_tables",
+			"dos2unix",
+			"temp",
+			"UNDOC",
+			"mysql",
+			"/etc/loadiq",
+			"init.d",
+			"etc",
+			"init.d",
+			"/*\n",
+			"init_",
+			"real_time",
+			"_input",
+			"1000",
+			"pecl",
+			"bin",
+			"cp",
+			"mac",
+			"open",
+			"tar",
+			"mysql",
+			"vpn",
+			"link",
+			"linenum",
+			"data",
+			"find",
+			"real",
+			"start",
+			"load_iq",
+			"ROOTFLA",
+			"ROOTFLSG",
+			"ROOTFL",
+			"ROOTFSTYPE",
+			"get_fs",
+			"rootmnt",
+			"FSTYPE",
+			"load_iq",
+			"sql",
+			"logger",
+			"load_iq_db",
+			"symm",
+			"apache",
+			"v",
+			"etc",
+			"fstab",
+			"load_iq",
+			"touch",
+			"setup",
+			"chroot",
+			"tar",
+			"home/loadiq",
+			"table",
+			"device",
+			"_ei_test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//!< ",
+			"// ",
+			"//!<",
+			"",
+			"//"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"project": "/home/taylor/Developer/learn-django/learn-django.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"runtests",
+				"test/gtest-1.7.0/xcode/Scripts/runtests.sh"
+			],
+			[
+				"load_iq_",
+				"setup_supplemental_EI/load_iq_db_ei.sql"
+			],
+			[
+				"imageprep.sh",
+				"~/Documents/UA-Dev/UA-dev1/UA-dev1.6/odroid/imageprep.sh"
+			],
+			[
+				"imageprep",
+				"~/Documents/UA-Dev/UA-dev1/UA-dev1.6/odroid/imageprep.sh"
+			],
+			[
+				"image",
+				"~/Documents/UA-Dev/UA-dev1/UA-dev1.6/odroid/imageprep.sh"
+			],
+			[
+				"init",
+				"~/Documents/Odroid-init-backup/initrd/tmp/init"
+			],
+			[
+				"im",
+				"~/Documents/UA-Dev/UA-dev1/UA-dev1.6/odroid/imageprep.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/learn-django/learn-django.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
