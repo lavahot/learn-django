@@ -343,29 +343,18 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "mysite/manage.py",
-			"settings":
-			{
-				"buffer_size": 249,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"ga",
-				"Git: Add..."
-			],
-			[
-				"packin",
-				"Package Control: Install Package"
-			],
 			[
 				"gp",
 				"Git: Push"
@@ -373,6 +362,22 @@
 			[
 				"gc",
 				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"gunsta",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
 			],
 			[
 				"g",
@@ -516,10 +521,6 @@
 			],
 			[
 				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -735,7 +736,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 458.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -762,6 +763,7 @@
 	],
 	"file_history":
 	[
+		"/home/taylor/Developer/learn-django/.gitignore",
 		"/home/taylor/Documents/mmc crash error log example 205.txt",
 		"/home/taylor/Developer/DroneControl/hellomap.html",
 		"/home/taylor/Developer/DroneControl/.gitignore",
@@ -888,8 +890,7 @@
 		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/PowerRange.h",
 		"/home/taylor/Documents/UA-Dev/UA-dev1/src/DynamicPowerRange/PowerRangeMain.cpp",
 		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/CircularBuffer.h",
-		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/ei_interface.cpp",
-		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/defs.h"
+		"/home/taylor/Documents/UA-Dev/UA-dev1/src/EI_Simulator/ei_interface.cpp"
 	],
 	"find":
 	{
@@ -1063,37 +1064,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "mysite/manage.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 249,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								249,
-								249
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1130,7 +1102,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 88.0
+		"height": 146.0
 	},
 	"output.find_results":
 	{
@@ -1140,6 +1112,7 @@
 	{
 		"height": 88.0
 	},
+	"pinned_build_system": "",
 	"project": "learn-django.sublime-project",
 	"replace":
 	{
@@ -1149,6 +1122,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1185,11 +1159,12 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"~/Documents/UA-Dev/UA-dev1/emdebian.sublime-workspace"
+				"~/Developer/learn-django/mysite/learn-django.sublime-workspace"
 			]
 		],
 		"width": 380.0
@@ -1197,6 +1172,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

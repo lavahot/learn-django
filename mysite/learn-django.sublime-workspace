@@ -344,18 +344,23 @@
 	"buffers":
 	[
 		{
-			"file": "manage.py",
+			"file": "mysite/settings.py",
 			"settings":
 			{
-				"buffer_size": 249,
+				"buffer_size": 1972,
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1068,24 +1073,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "manage.py",
+					"file": "mysite/settings.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 249,
+						"buffer_size": 1972,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								249,
-								249
+								802,
+								802
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1140,6 +1147,7 @@
 	{
 		"height": 88.0
 	},
+	"pinned_build_system": "",
 	"project": "/home/taylor/Developer/learn-django/learn-django.sublime-project",
 	"replace":
 	{
@@ -1149,6 +1157,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1185,11 +1194,12 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"~/Developer/learn-django/learn-django.sublime-project"
+				"~/Documents/UA-Dev/UA-dev1/UA-Dev.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1197,6 +1207,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
